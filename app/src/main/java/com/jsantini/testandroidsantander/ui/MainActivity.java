@@ -1,7 +1,9 @@
-package com.jsantini.testandroidsantander;
+package com.jsantini.testandroidsantander.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.jsantini.testandroidsantander.R;
 
 public class MainActivity extends AppCompatActivity {
 
